@@ -1,0 +1,7 @@
+id=miuiflaticondisabler
+name=Flat icon disabler for MIUI (xiaomi.eu)
+version=v1
+versionCode=1
+author=Sap1k
+description=Disables flat icons included in xiaomi.eu ROMs
+minMagisk=1500
