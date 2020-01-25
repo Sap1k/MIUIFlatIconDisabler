@@ -28,4 +28,7 @@ Changelog
 
 ### v2.0
 - Initial **public** release
-- Compliant with Magisk documentation
+- Semi-compliant with Magisk documentation
+
+### v2.1
+- Fuly compliant with Magisk documentation
