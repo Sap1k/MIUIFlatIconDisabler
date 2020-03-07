@@ -32,3 +32,6 @@ Changelog
 
 ### v2.1
 - Fuly compliant with Magisk documentation
+
+### v2.2
+- Make GitHub store directories properly
