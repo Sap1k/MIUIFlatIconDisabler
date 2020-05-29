@@ -35,3 +35,8 @@ Changelog
 
 ### v2.2
 - Make GitHub store directories properly
+
+### v3.0
+- Updated to work on MIUI12 
+- Now replaces the icons with those from Global, instead of just removing everything :)
+- NOTE: MIUI11 support has been dropped from this release
